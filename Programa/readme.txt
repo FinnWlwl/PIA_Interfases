@@ -40,5 +40,3 @@
   # de la interfaz, además se encuentra la carpeta "panels", que contiene las ventanas que se abren a partir
   # de "master".
 # En la carpeta "db" se guarda la base de datos.
- 
-
