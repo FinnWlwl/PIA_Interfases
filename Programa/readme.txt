@@ -23,3 +23,5 @@
 # descomprimes el archivo y abres "otfs" e instalas: Font Awesome 6 Free-Solid-900.
 # NOTA: Si se descarga de Github, se debe copiar y pegar la carpeta "Programa" fuera de la carpeta "PIA_Interfases",
 # para que funcione correctamente el programa.
+
+# El programa se inicia desde el archivo de "main".
